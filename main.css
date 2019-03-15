@@ -1,0 +1,11 @@
+body: {
+  color: #0F0;
+  background-color: #000;
+  margin: 0;
+  padding: 0px;
+  display: flex;
+}
+
+title {
+  font-size: 6rem;
+}
